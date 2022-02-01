@@ -60,6 +60,7 @@
 
 ### React
 - [Тотальный React](https://telp.cc/qMN) - репозиторий, в котором собрано множество полезных материалов по React
+- [Memoization in React](https://epicreact.dev/memoization-and-react/) - хорошая статья о мемоизации в React
 - [Upmostly](https://telp.cc/r5w) - подборка обучающих статей по React
 - [Ant Designe](https://telp.cc/rdI) - одна из лучших UI библиотек для React.JS
 - [React Tutorial](https://telp.cc/rIL) - интерактивный курс по React Js
